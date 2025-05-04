@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soutu</h1>
+<h1 align="center">Hi 👋, I'm Soutrik</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Full-Stack Development**
